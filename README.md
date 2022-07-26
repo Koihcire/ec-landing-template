@@ -1,0 +1,1 @@
+# ec-landing-template
